@@ -1,0 +1,15 @@
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\RentacarApi.Business.deps.json
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\RentacarApi.Business.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\ref\RentacarApi.Business.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\RentacarApi.Business.pdb
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\RentacarApi.Data.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\bin\Debug\net6.0\RentacarApi.Data.pdb
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.csproj.AssemblyReference.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.AssemblyInfoInputs.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.AssemblyInfo.cs
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.csproj.CopyComplete
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\ref\RentacarApi.Business.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Business\obj\Debug\net6.0\RentacarApi.Business.pdb

@@ -1,0 +1,14 @@
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\bin\Debug\net6.0\RentacarApi.Data.deps.json
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\bin\Debug\net6.0\RentacarApi.Data.runtimeconfig.json
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\bin\Debug\net6.0\RentacarApi.Data.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\bin\Debug\net6.0\ref\RentacarApi.Data.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\bin\Debug\net6.0\RentacarApi.Data.pdb
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.csproj.AssemblyReference.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.AssemblyInfoInputs.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.AssemblyInfo.cs
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\ref\RentacarApi.Data.dll
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.pdb
+C:\Users\dumi\source\repos\RentacarApi\RentacarApi.Data\obj\Debug\net6.0\RentacarApi.Data.genruntimeconfig.cache

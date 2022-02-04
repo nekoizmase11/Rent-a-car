@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "440338f8-f46c-4e64-8861-ed046c94f9c8": {
+      "ProjectGuid": "440338f8-f46c-4e64-8861-ed046c94f9c8",
+      "DisplayName": "RentacarApi",
+      "ColorIndex": 0
+    },
+    "26b13492-6f5b-40ec-b948-fce70a7bac5c": {
+      "ProjectGuid": "26b13492-6f5b-40ec-b948-fce70a7bac5c",
+      "DisplayName": "RentacarApi.Data",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fe91efa1-e7fd-45a5-91eb-4cbeace59ae4": {
+      "ProjectGuid": "fe91efa1-e7fd-45a5-91eb-4cbeace59ae4",
+      "DisplayName": "RentacarApi.Business",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
