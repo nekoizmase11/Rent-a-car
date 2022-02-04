@@ -18,6 +18,7 @@ namespace RentacarApi.Models
         [JmbgValidation]
         public long Jmbg { get; set; }
 
+
         [Required]
         public DateTime DateOfBirth { get; set; }
 
